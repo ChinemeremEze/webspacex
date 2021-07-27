@@ -1,0 +1,38 @@
+.launch-detail{
+    border: 1px solid black;
+    padding: 10px;
+    clear: both;
+    display: flex;
+}
+
+img{
+    width:56px;
+    height: 56px;
+}
+
+.misson-name{
+    font-size: 16px;
+    font-weight: 600;
+
+}
+.launch-date{
+    font-size: 14px;
+    font-weight: 500;
+    color: lightgrey;
+
+}
+.misson-status{
+    font-size: 14px;
+    font-weight: 700;
+   
+    
+}
+.success{
+    color: green;
+}
+.fail{
+    color: red;
+}
+.upcoming{
+    color:blue;
+}
